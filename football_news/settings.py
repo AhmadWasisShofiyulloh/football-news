@@ -34,7 +34,7 @@ DEBUG = True
 ALLOWED_HOSTS = ["localhost", "127.0.0.1", "ahmad-wasis-footballnews.pbp.cs.ui.ac.id"]
 
 CSRF_TRUSTED_ORIGINS = [
-    "htpps://ahmad-wasis-footballnews.pbp.cs.ui.ac.id"
+    "https://ahmad-wasis-footballnews.pbp.cs.ui.ac.id"
 ]
 
 
